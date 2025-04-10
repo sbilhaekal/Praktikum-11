@@ -1,0 +1,12 @@
+body {
+    background-color: #2c6eaf;
+  }
+  li span {
+    margin-right: 10px;
+  }
+.textbox {
+    border: 2px solid white ;
+    background-color: white;
+    text-align: center;
+    padding: 5px;
+}
